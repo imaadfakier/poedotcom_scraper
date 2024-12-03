@@ -1,2 +1,2 @@
 # poedotcom_scraper
-A comprehensive data scraper to extract chatbot-related metadata and platform-specific functionalities from Poe.com.
+Design a robust data scraper to collect metadata related to chatbots and details about platform-specific features available on Poe.com.
